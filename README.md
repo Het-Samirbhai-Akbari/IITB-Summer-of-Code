@@ -2,7 +2,7 @@
 
 Tracking my weekly progress, code, and notes for the IITB Summer of Code. I am updating this repo as I work through the program!
 
-## 📅 Weekly Progress
+## Weekly Progress
 
 ### Week 1: Setup & Python Fundamentals
 Kicked off the program by setting up the development environment and mastering core Python programming concepts.
@@ -34,7 +34,7 @@ Transitioned from traditional ML to Deep Learning, building neural networks from
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 * Python & Jupyter Notebooks
 * Pandas, NumPy, Matplotlib
 * Scikit-Learn
