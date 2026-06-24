@@ -6,6 +6,8 @@ Tracking my weekly progress, code, and notes for the IITB Summer of Code. I am u
 
 ### Week 1: [Python Basics / Setup]
 * Set up the local environment and WSL terminal.
+* Learning syntax for
+        *Variables
 
 ### Week 2: Machine Learning
 * Jumped into core ML algorithms and data processing techniques.
