@@ -4,7 +4,7 @@ Tracking my weekly progress, code, and notes for the IITB Summer of Code. I am u
 
 ## 📅 Weekly Progress
 
-### Week 1: [Add the topic, e.g., Python Basics / Setup]
+### Week 1: [Python Basics / Setup]
 * Set up the local environment and WSL terminal.
 
 ### Week 2: Machine Learning
