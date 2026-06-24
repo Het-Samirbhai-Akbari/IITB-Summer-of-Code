@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.h5
+*.pkl
+*.pth
+venv/
+data/
+Week 3- Deep Learning/datasets/
+Week 3- Deep Learning/datasets/
