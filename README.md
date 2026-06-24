@@ -8,8 +8,7 @@ Tracking my weekly progress, code, and notes for the IITB Summer of Code. I am u
 Kicked off the program by setting up the development environment and mastering core Python programming concepts.
 * **Environment:** Set up the local Linux (WSL) environment, Jupyter Notebooks, and established a clean Git/GitHub workflow.
 * **Core Syntax:** Covered the building blocks of Python, including variables, dynamic data types, and control flow logic (`if/else` statements, loops).
-* **Data Structures:** Worked extensively with built-in structures like lists and tuples to store, organize, and manipulate data.
-* **Modularity:** Built reusable and efficient code using Python functions.
+* **Data Structures:** Learned built-in structures like lists and tuples to store, organize, and manipulate data.
 
 
 ### Week 2: Machine Learning
