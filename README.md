@@ -1,26 +1,28 @@
 # IITB Summer of Code
 
-Welcome to my workspace for the **IITB Summer of Code**! This repo holds the code, notes, and Jupyter notebooks I put together during the program, jumping from basic machine learning to deep learning.
+Tracking my weekly progress, code, and notes for the IITB Summer of Code. I am updating this repo as I work through the program!
 
-## 📂 What's Inside
+## 📅 Weekly Progress
 
-### [Week 2: Machine Learning](./Week%202-%20Machine%20Learning)
-The basics of ML and working with data.
-* **Topics covered:** Data preprocessing, supervised & unsupervised learning, model evaluation.
-* **What I built:** [Replace this with a quick line about what your code does, e.g., a model to predict housing prices.]
+### Week 1: [Add the topic, e.g., Python Basics / Setup]
+* Set up the local environment and WSL terminal.
 
-### [Week 3: Deep Learning](./Week%203-%20Deep%20Learning)
-Moving into neural networks and more complex models.
-* **Topics covered:** Neural networks, backpropagation, handling image/text data.
-* **What I built:** [Replace this with a quick line about what your code does, e.g., an image classifier.]
+### Week 2: Machine Learning
+* Jumped into core ML algorithms and data processing techniques.
+* Wrote Jupyter notebooks covering supervised and unsupervised learning.
 
-*(Note: The heavy dataset folders are ignored via `.gitignore` so the repo stays clean and loads fast!)*
+### Week 3: Deep Learning
+* Shifted focus to artificial neural networks and deeper architectures.
+* Built and trained models to handle more complex datasets.
+* *(Note: The raw datasets used this week were massive, so they are excluded from the repo to keep things fast and clean!)*
 
-## 🛠️ Tools Used
+### Week 4 & Beyond
+* *Currently in progress...*
+
+---
+
+## 🛠️ Tools & Libraries
 * Python & Jupyter Notebooks
 * Pandas, NumPy, Matplotlib
 * Scikit-Learn
-* [Add TensorFlow or PyTorch here depending on what you used]
-
----
-Built by [Het Samirbhai Akbari](https://github.com/Het-Samirbhai-Akbari)
+* [Add TensorFlow or PyTorch depending on what you used]
