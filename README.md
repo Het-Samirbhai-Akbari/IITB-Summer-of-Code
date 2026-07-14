@@ -40,5 +40,29 @@ Transitioned from traditional ML to Deep Learning, building neural networks from
 * Scikit-Learn
 * TensorFlow & Keras
 
+## Week 4: Intro to LLMs
+
+This week was focused on learning the basics of large language models — understanding what LLMs are and how they work.
+
+## Week 5: Exploratory Data Analysis
+
+This week I learned about EDA and data cleaning techniques in Python, understanding the basic concepts and workflow involved in preparing data.
+
+## Week 6: Training the YOLOv8 Model
+
+This was the core computer vision week. I trained a YOLOv8 model to detect surface defects on steel — things like scratches, patches, pitted surfaces, and rolled-in scale. I converted the dataset's annotations into the format YOLO needs, set up the training configuration, and ran several training experiments to find the best-performing setup. At the end of it, I had a trained model saved as `best.pt` that could reliably detect these defect types in new images.
+
+## Weeks 7 & 8: Building the Final Application — DeFekt.AI
+
+For the final project, I built a complete web application called **DeFekt.AI** using Streamlit. Here's what it does:
+
+- A user uploads an image of a steel surface
+- My trained YOLOv8 model runs and detects any defects in the image
+- The app shows the original image next to the same image with bounding boxes drawn around each detected defect
+- The detected defects are sent to a locally running LLM (Llama 3.2, through Ollama) which writes a professional inspection report — including a summary, severity rating, and recommended actions
+- Everything is displayed cleanly in the web app
+
+I also added something extra beyond what was required: a chatbot at the bottom of the report where I can ask follow-up questions about the defects that were found, and it answers based on the actual results from that specific image.
+
 ---
 Built by [Het Samirbhai Akbari](https://github.com/Het-Samirbhai-Akbari)
