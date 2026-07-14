@@ -1,9 +1,22 @@
-*.csv
-*.zip
-*.h5
-*.pkl
-*.pth
-venv/
-data/
-Week 3- Deep Learning/datasets/
-Week 3- Deep Learning/datasets/
+# Datasets - too large / not source code
+Week 5 + 6/train/
+Week 5 + 6/valid/
+*.cache
+
+# Pretrained base weights (not your trained model)
+Week 5 + 6/yolo26n.pt
+Week 5 + 6/yolov8n.pt
+
+# Windows metadata junk
+*:Zone.Identifier
+
+# Duplicate/stray files
+Week 7 + 8/Web/
+Week 7 + 8/best (1).pt
+
+# Python/venv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
