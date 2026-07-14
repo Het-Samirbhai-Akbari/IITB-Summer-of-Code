@@ -29,11 +29,6 @@ Transitioned from traditional ML to Deep Learning, building neural networks from
 * **Advanced Vision Concepts:** Explored spatial mapping with Image Segmentation and Object Detection, comparing Sliding Window Object Detection against modern architectures like YOLO.
 * *(Note: The raw datasets used this week were massive, so they are excluded via `.gitignore` to keep the repo fast and clean!)*
 
-### Week 4 & Beyond
-* *Currently in progress...*
-
----
-
 ##  Tools & Libraries
 * Python & Jupyter Notebooks
 * Pandas, NumPy, Matplotlib
